@@ -13,13 +13,13 @@
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--tf-green2);
   --tf-icon-fill: var(--tf-green2);
-  --tf-icon-hover: var(--tf-green2;
+  --tf-icon-hover: var(--tf-green2);
   --tf-page-bg-color: var(--tf-green2);
   --tf-footer-bg-color: var(--tf-green2);
   --tf-projects-bg-color: var(--tf-green2);
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5,h6 {
   color: var(--tf-white);
 }
 
