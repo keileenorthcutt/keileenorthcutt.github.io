@@ -6,108 +6,101 @@
     "email": "keileenorthcutt1@gmail.com",
     "phone": "(931)581-6791",
     "website": "https://keileenorthcutt.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I graduated from MIT in 2024 with my B.S. in Electrical Engineering and Computer Science. As a recipient of the Dept. of Defense Science, Mathematics, and Research for Transformation (SMART) Scholarship, I fulfilled my service commitment as a civilian Electrical Engineer at Portsmouth Naval Shipyard; I'm now looking to start my career in computer hardware engineering.",
+    "location": { "address": "", "postalCode": "03878", "city": "Somersworth", "countryCode": "USA", "region": "New Hampshire" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "keileenorthcutt", "url": "https://github.com/keileenorthcutt" },
+      { "network": "linkedin", "username": "keileenorthcutt", "url": "https://www.linkedin.com/in/keilee-northcutt-161ab2364/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Computer Hardware" },
+    { "name": "Computer Architecture" },
+    { "name": "Field-Programmable Gate Arrays (FPGAs)" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Arduino", "Verilog", "Bluespec", "Assembly" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+      "name": "Tools",
+      "keywords": [ "Vivado", "Microsoft365", "Computer-Aided Design (CAD)", "LabVIEW" ]
+    } 
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "area": "Electrical Engineering and Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "09-01-2020",
+      "endDate": "05-31-2024",
+      "courses": [ "Digital Systems Lab", "Microcomputer Project Lab", "Constructive Computer Architecture", "Computation Structures", "Dynamical System Modeling and Control Design", "Artificial Intelligence", "Fundamentals of Programming" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Portsmouth Naval Shipyard",
+      "position": "Electrical Engineering",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "08-26-2024",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "summary": "",
+      "highlights": [""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "National Aerospace Solutions, LLC",
+      "position": "Engineering Intern",
+      "website": ,
+      "startDate": "06-04-2022",
+      "endDate": "08-10-2022",
       "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "highlights": [""
       ]
-    }
+    },
+    {
+      "company": "MIT Digital Humanities Lab",
+      "position": "Undergraduate Researcher",
+      "website": ,
+      "startDate": "09-2021",
+      "endDate": "02-2022",
+      "summary": "",
+      "highlights": [""
+      ]
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "MIT Alumni Association",
+      "website": "",
+      "position": "Educational Counselor",
+      "startDate": "08-2024",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "summary": "",
+      "highlights": [""
+        
       ]
     },
     {
-      "organization": "",
+      "organization": "STEM Outreach",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Volunteer Teaching Aid",
+      "startDate": "09-2020",
+      "endDate": "12-2020",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Science, Mathematics, and Research for Transformation Scholarship",
+      "date": "2022-2024",
+      "awarder": "Department of Defense",
+      "summary": "The Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program, funded by the U.S. Department of Defense (DoD), is a unique education and workforce development opportunity for aspiring leaders in science, technology, engineering, and mathematics (STEM)."
     }
   ],
   "references": [
