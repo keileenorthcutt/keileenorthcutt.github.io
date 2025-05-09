@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/omnichord.png
+image: img/omnichord.jpg
 title: "FPGA Omnichord"
 date: 2022
 published: true
