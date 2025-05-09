@@ -35,8 +35,8 @@
       "institution": "Massachusetts Institute of Technology (MIT)",
       "area": "Electrical Engineering and Computer Science",
       "studyType": "B.S.",
-      "startDate": "09-01-2020",
-      "endDate": "05-31-2024",
+      "startDate": "2020-09-01",
+      "endDate": "2024-05-31",
       "courses": [ "Digital Systems Lab", "Microcomputer Project Lab", "Constructive Computer Architecture", "Computation Structures", "Dynamical System Modeling and Control Design", "Artificial Intelligence", "Fundamentals of Programming" ]
     }
   ],
@@ -45,7 +45,7 @@
       "company": "Portsmouth Naval Shipyard",
       "position": "Electrical Engineering",
       "website": "",
-      "startDate": "08-26-2024",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "summary": "",
       "highlights": ["Test and evaluate multiple classes of rotating electrical machinery on Naval submarines",
@@ -59,8 +59,8 @@
       "company": "National Aerospace Solutions, LLC",
       "position": "Engineering Intern",
       "website": ,
-      "startDate": "06-04-2022",
-      "endDate": "08-10-2022",
+      "startDate": "2022-06-04",
+      "endDate": "2022-08-10",
       "summary": "",
       "highlights": ["Designed and developed new software for databases to aid in more efficient processes for various engineering groups"
       ]
@@ -69,8 +69,8 @@
       "company": "MIT Digital Humanities Lab",
       "position": "Undergraduate Researcher",
       "website": ,
-      "startDate": "09-2021",
-      "endDate": "02-2022",
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-01",
       "summary": "",
       "highlights": ["Developed backend components for an archival website exhibiting the contribution of Lagos, Nigeria to the history of the personal computer", 
       "Worked with a partner to clean archive data, edit metadata, and design a website interface for optimal user experience"
@@ -82,7 +82,7 @@
       "organization": "MIT Alumni Association",
       "website": "",
       "position": "Educational Counselor",
-      "startDate": "08-2024",
+      "startDate": "2024-08-01",
       "endDate": "Present",
       "summary": "",
       "highlights": ["Interview and evaluate applicants for undergraduate admission and provide a thorough written report of the applicants for MIT Admissions",
@@ -94,8 +94,8 @@
       "organization": "STEM Outreach",
       "website": "",
       "position": "Volunteer Teaching Aid",
-      "startDate": "2020-09",
-      "endDate": "2020-12",
+      "startDate": "2020-09-01",
+      "endDate": "2020-12-01",
       "summary": "",
       "highlights": ["Assist STEM Outreach student group with teaching elementary and middle schoolers about STEM topics through engaging activities"]
     }
