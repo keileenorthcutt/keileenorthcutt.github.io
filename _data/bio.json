@@ -48,7 +48,11 @@
       "startDate": "08-26-2024",
       "endDate": "Present",
       "summary": "",
-      "highlights": [""]
+      "highlights": ["Test and evaluate multiple classes of rotating electrical machinery on Naval submarines",
+"Research and prepare technical reference documents for electrical systems and components",
+"Support production shops as a technical point of contact and provide solutions for deficiencies regarding motor repairs",
+"Design and build testing infrastructure for relevant electrical components and systems"
+]
       
     },
     {
@@ -58,7 +62,7 @@
       "startDate": "06-04-2022",
       "endDate": "08-10-2022",
       "summary": "",
-      "highlights": [""
+      "highlights": ["Designed and developed new software for databases to aid in more efficient processes for various engineering groups"
       ]
     },
     {
@@ -68,7 +72,8 @@
       "startDate": "09-2021",
       "endDate": "02-2022",
       "summary": "",
-      "highlights": [""
+      "highlights": ["Developed backend components for an archival website exhibiting the contribution of Lagos, Nigeria to the history of the personal computer", 
+      "Worked with a partner to clean archive data, edit metadata, and design a website interface for optimal user experience"
       ]
     }
   ],
