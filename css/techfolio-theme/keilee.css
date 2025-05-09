@@ -6,6 +6,7 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-black: #000000;
+  --tf-green: #12d0b6;
   --tf-white: #FFFFFF;
   --bs-font-sans-serif: "IBM Plex Serif", serif;
   --bs-link-color: var(--bs-blue);
@@ -18,7 +19,7 @@
 }
 
 h1,h2,h3,h4 {
-  color: var(--tf-white;
+  color: var(--tf-green;
 }
 
 /* Format social media icons */
