@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gameboy.jpeg
+image: img/tetris.jpg
 title: "PC Gameboy"
 date: 2023
 published: true
