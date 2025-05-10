@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: computer.webp
+image: img/old_pc.jpg
 title: "Tèkó Archives"
 date: 2021
 published: true
