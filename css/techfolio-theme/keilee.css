@@ -6,6 +6,7 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-black: #000000;
+  --tf-cream: #fff6dd;
   --tf-green: #12d0b6;
   --tf-green2: #386a61;
   --tf-white: #FFFFFF;
@@ -14,7 +15,7 @@
   --tf-pill-bg: var(--tf-green2);
   --tf-icon-fill: var(--tf-green2);
   --tf-icon-hover: var(--tf-green2);
-  --tf-page-bg-color: var(--tf-green2);
+  --tf-page-bg-color: var(--tf-cream);
   --tf-footer-bg-color: var(--tf-green2);
   --tf-projects-bg-color: var(--tf-green2);
 }
