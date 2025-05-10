@@ -7,6 +7,7 @@
 :root {
   --tf-green1: #136c14;
   --tf-green2: #4FA64F;
+  --tf-cream: #fff6dd;
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
   --bs-font-sans-serif: "Open Sans", sans-serif;
@@ -14,7 +15,7 @@
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
   --tf-icon-hover: var(--tf-green2);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--tf-cream);
   --tf-footer-bg-color: var(--tf-green4);
   --tf-projects-bg-color: var(--tf-green4);
 }
