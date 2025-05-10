@@ -8,6 +8,7 @@ published: true
 labels:
   - Python
   - C++
+  - Programmable System on Chip (PSoC)
 summary: "System for emulating authentic Nintendo gameplay on PC using a Programmable System on Chip (PSoC)."
 ---
 
