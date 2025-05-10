@@ -12,4 +12,6 @@ labels:
 summary: "System for emulating authentic Nintendo gameplay on PC using a Programmable System on Chip (PSoC)."
 ---
 
+<img class="img-fluid" src="/projects/pc_gameboy.JPG">
+
 For my final project in Microcomputer Project Lab, I designed and implemented a "PC Gameboy." Essentially, I wanted to create a way to play original Gameboy cartridges on a PC using a Nintendo Entertainment System (NES) controller for authentic gameplay using an existing emulator. 
