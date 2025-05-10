@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tetris.jpg
+image: computer.webp
 title: "Tèkó Archives"
 date: 2021
 published: true
