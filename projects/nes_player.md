@@ -14,4 +14,4 @@ summary: "System for emulating authentic Nintendo gameplay on PC using a Program
 
 For my final project in Microcomputer Project Lab, I designed and implemented a "PC Gameboy." Essentially, I wanted to create a way to play original Gameboy cartridges on a PC using a Nintendo Entertainment System (NES) controller for authentic gameplay using an existing emulator. 
 
-<img src="/projects/IMG_7867.JPG" alt="My PC Gameboy system" style="width:3020px;height:3020px;">
+<img src="/projects/IMG_7867.JPG" alt="My PC Gameboy system">
