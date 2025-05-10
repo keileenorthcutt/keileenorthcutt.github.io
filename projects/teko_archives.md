@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/old_pc.jpg
+image: img/black_pc.jpg
 title: "Tèkó Archives"
 date: 2021
 published: true
