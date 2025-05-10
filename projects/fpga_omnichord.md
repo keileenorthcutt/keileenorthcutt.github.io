@@ -13,4 +13,4 @@ summary: "Using an FPGA as a musical instrument."
 
 For my final project for Digital Systems Lab, a partner and I used an FPGA to recreate Suzuki's Omnichord from the 1980s. Using an FPGA, a touch sensor, a USB keyboard, and SD interfacing, we produced a similar harp-like "instrument." Click the link below to read our project paper.
 
-<a href="keileenorthcutt.github.io/resources/IEEE_Conference_Template__1_(4).pdf">FPGA Omnichord Paper</a>
+<a href="/IEEE_Conference_Template__1_(4).pdf">FPGA Omnichord Paper</a>
