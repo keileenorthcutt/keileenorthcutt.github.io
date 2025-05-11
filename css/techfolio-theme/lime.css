@@ -2,6 +2,7 @@
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
@@ -11,7 +12,7 @@
   --tf-green3: #85C285;
   --tf-green4: #e0f2df;
   --tf-mygreen4: #7aa590;
-  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-font-sans-serif: "IBM Plex Serif", serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-mygreen4);
   --tf-icon-fill: var(--tf-green1);
