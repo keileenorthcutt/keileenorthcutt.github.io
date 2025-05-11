@@ -16,12 +16,12 @@
   --tf-dark: #4a6859;
   --bs-font-sans-serif: "IBM Plex Serif", serif;
   --bs-link-color: var(--tf-dark);
-  --tf-pill-bg: var(--tf-mygreen4);
-  --tf-icon-fill: var(--tf-mygreen4);
-  --tf-icon-hover: var(--tf-mygreen4);
+  --tf-pill-bg: var(--tf-dark);
+  --tf-icon-fill: var(--tf-dark);
+  --tf-icon-hover: var(--tf-light);
   --tf-page-bg-color: var(--tf-light);
-  --tf-footer-bg-color: var(--tf-mygreen4);
-  --tf-projects-bg-color: var(--tf-mygreen4);
+  --tf-footer-bg-color: var(--tf-light);
+  --tf-projects-bg-color: var(--tf-light);
 }
 
 h1,h2,h3,h4,h5 {
@@ -37,15 +37,7 @@ a {
 }
 
 ul {
-  color: var(--tf-mygreen4);
-}
-
-header {
-  color: var(--tf-mygreen4);
-}
-
-footer {
-  color: var(--tf-mygreen4);
+  color: var(--tf-light);
 }
 
 /* Format social media icons */
