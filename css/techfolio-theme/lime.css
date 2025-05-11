@@ -42,7 +42,7 @@ ul {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-mygreen4);
+  fill: var(#000000);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
