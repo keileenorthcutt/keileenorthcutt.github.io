@@ -21,8 +21,12 @@
   --tf-projects-bg-color: var(--tf-mygreen4);
 }
 
-h1,h2,h3,h4,h5 {
+h1,h3,h4,h5 {
   color: var(--tf-green1);
+}
+
+h2 {
+  color: var(--bs-white);
 }
 
 /* Format social media icons */
