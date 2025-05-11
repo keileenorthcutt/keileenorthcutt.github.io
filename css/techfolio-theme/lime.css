@@ -23,15 +23,15 @@
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--bs-black);
+  color: var(#000000);
 }
 
 p {
-  color: var(--bs-black);
+  color: var(#000000);
 }
 
 a {
-  color: var(--bs-black);
+  color: var(#000000);
 }
 
 ul {
@@ -41,7 +41,7 @@ ul {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-green1);
+  fill: var(--tf-mygreen4);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
