@@ -13,6 +13,7 @@
   --tf-green4: #e0f2df;
   --tf-mygreen4: #7aa590;
   --tf-light: #cfddd6;
+  --tf-dark: #4a6859;
   --bs-font-sans-serif: "IBM Plex Serif", serif;
   --bs-link-color: var(--tf-light);
   --tf-pill-bg: var(--tf-mygreen4);
@@ -24,7 +25,7 @@
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(#000000);
+  color: var(--tf-dark);
 }
 
 p {
