@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2024-05-31",
-      "courses": [ "Digital Systems Lab", "Microcomputer Project Lab", "Constructive Computer Architecture", "Computation Structures", "Dynamical System Modeling and Control Design", "Artificial Intelligence", "Fundamentals of Programming" ]
+      "courses": [ "Digital Systems Lab", "Microcomputer Project Lab", "Constructive Computer Architecture", "Computation Structures", "Dynamical System Modeling and Control Design", "Embedded Systems", "Artificial Intelligence", "Fundamentals of Programming" ]
     }
   ],
   "work": [
