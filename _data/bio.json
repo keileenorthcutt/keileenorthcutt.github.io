@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Arduino", "Verilog", "Bluespec", "Assembly" ]
+      "keywords": [ "Python", "Arduino", "Verilog", "Bluespec", "Assembly", "MATLAB" ]
     },
     {
       "name": "Tools",
