@@ -17,7 +17,7 @@
   --bs-font-sans-serif: "IBM Plex Serif", serif;
   --bs-link-color: var(--tf-dark);
   --tf-pill-bg: var(--tf-dark);
-  --tf-icon-fill: var(--tf-dark);
+  --tf-icon-fill: var(--tf-light);
   --tf-icon-hover: var(--tf-light);
   --tf-page-bg-color: var(--tf-light);
   --tf-footer-bg-color: var(--tf-light);
@@ -37,7 +37,7 @@ a {
 }
 
 ul {
-  color: var(--tf-light);
+  color: var(--tf-dark);
 }
 
 /* Format social media icons */
