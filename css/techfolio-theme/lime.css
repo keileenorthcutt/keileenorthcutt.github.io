@@ -39,6 +39,14 @@ ul {
   color: var(--tf-mygreen4);
 }
 
+header {
+  color: var(--tf-mygreen4);
+}
+
+footer {
+  color: var(--tf-mygreen4);
+}
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
