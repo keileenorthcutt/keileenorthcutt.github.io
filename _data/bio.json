@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Computer Hardware" },
-    { "name": "Computer Architecture" },
+    { "name": "ASIC" },
     { "name": "Field-Programmable Gate Arrays (FPGAs)" },
     { "name": "Robotics" },
     { "name": "Software Engineering" }
